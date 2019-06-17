@@ -1,5 +1,7 @@
 # Portfolio
 ![My portfolio](assets/images/git/demo.gif)
+
+[Live Deployment](https://esarnb.github.io/Portfolio/) for you to check out.
 ## Getting Started
 
 The Portfolio is only a single page. In the nav on the top right, there are anchors that lead to parts of the portfolio, scrolling to them.
