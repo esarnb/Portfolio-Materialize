@@ -11,12 +11,26 @@ nav .brand-logo {
   color: #444;
 }
 
-body {
+.page-footer, body {
+  background-color: #305a7de0;
+  color: white;
+}
 
+.card-content, .card-action {
+  background-color: #386f9d;
+  color: white;
 }
 
 p {
   line-height: 2rem;
+}
+
+a {
+  color: #2ed8c7d0;
+}
+
+nav, .nav-wrapper {
+  background-color: #e2e2e2;
 }
 
 #logo {
@@ -46,9 +60,6 @@ input:focus {
   box-shadow: none!important;
 }
 
-#quoteBlack {
-  /* color: rgb(83, 161, 255); */
-}
 .sidenav-trigger {
   color: #26a69a;
 }
@@ -63,7 +74,6 @@ input:focus {
 .parallax-container .section {
   width: 100%;
 }
-
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
@@ -98,4 +108,20 @@ input:focus {
 
 footer.page-footer {
   margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
 }
