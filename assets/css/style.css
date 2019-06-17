@@ -12,13 +12,13 @@ nav .brand-logo {
 }
 
 .page-footer, body {
-  background-color: #305a7de0;
+  background-color: #6a91c7;
   color: white;
 }
 
 .card-content, .card-action {
-  background-color: #386f9d;
-  color: white;
+  /* background-color: #white; */
+  color: black;
 }
 
 p {
