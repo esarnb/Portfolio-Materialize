@@ -8,6 +8,8 @@ You will need all of the files in this repository (except git images) for it all
 
 ### Prerequisites
 
+You MUST have an internet connection to load Materialize CDNs. You may install them individually if needed for offline mode.
+
 If you are running it on a server, a preferred apache2, nginx, or express webserver is required to host the html files.
 
 There are no software prerequisites if running locally on your pc. An internet connection may be required to load Bootstrap elements correctly.
@@ -26,6 +28,7 @@ If local, open the index.html file with your preferred browser. That's all there
 * HTML 
 * CSS 
 * [Bootstrap](https://getbootstrap.com/) 
+* [Materialize](https://materializecss.com/)
 
 ## Authors
 
